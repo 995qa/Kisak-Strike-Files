@@ -67,6 +67,13 @@
     </head>
     <body>
         <KisakConvarSettingEnum
+        convar="net_graph"
+        desc="Show FPS" enum-values-count="2"
+        enum-value-0="0" enum-name-0="DISABLED"
+        enum-value-1="1" enum-name-1="YES"
+        />
+        <br/>
+        <KisakConvarSettingEnum
         convar="csm_quality_level"
         desc="Cascading Shadow Maps Quality" enum-values-count="4"
         enum-value-0="0" enum-name-0="VERY LOW"
