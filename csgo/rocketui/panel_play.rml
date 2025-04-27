@@ -1,0 +1,71 @@
+<rml>
+    <head>
+        <style>
+            body
+            {
+                font-family: Lato;
+                left: 12.5%;
+                top: 20%;
+                width: 75%;
+                height: 60%;
+                background-color: #222222;
+                opacity: 0.9;
+            }
+            selectvalue
+            {
+                font-family: Lato;
+            }
+            KisakConvarSettingEnum
+            {
+                width: 20%;
+                height: 5%;
+            }
+            select
+            {
+                background-color: #666666;
+            }
+            option
+            {
+                background-color: #666666;
+            }
+            option:hover
+            {
+                background-color: #999;
+            }
+            KisakConvarSettingEnum
+            {
+                width: 20%;
+                height: 5%;
+            }
+            slidertrack
+            {
+                background-color: #000;
+            }
+            sliderbar
+            {
+                width: 10%;
+                height: 100%;
+                background-color: #999;
+            }
+            button
+            {
+                opacity: 1.0;
+                border-width: 1px;
+                border-color: #222;
+                background: #666;
+                margin-left: 6dp;
+                display: inline-block;
+                width: 130dp;
+                line-height: 24dp;
+                text-align: center;
+            }
+            button:hover
+            {
+                background: #999;
+            }
+        </style>
+    </head>
+  <body>
+    <p>Test</p>
+  </body>
+</rml>
