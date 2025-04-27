@@ -149,6 +149,12 @@
         slider-min="1.6" slider-max="2.2" slider-step="0.05"
         />
         <br/>
+        <KisakConvarSettingSlider
+        convar="sensitivity"
+        desc="Mouse Sensitivity"
+        slider-min="1.0" slider-max="6.0" slider-step="0.1"
+        />
+        <br/>
         <br/>
         <br/>
         <br/>
